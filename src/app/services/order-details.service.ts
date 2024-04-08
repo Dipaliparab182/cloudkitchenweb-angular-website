@@ -15,42 +15,42 @@ export class OrderDetailsService {
       foodName:"Paneer Grilled Sandwich",
       foodDetails:"Pan-fried Masala Paneer",
       foodPrice:200,
-      foodImg:"/../../assets/img/paneer-sandwich.jpeg"
+      foodImg:"/assets/img/paneer-sandwich.jpeg"
     },
     {
       id:2,
       foodName:"Veggie Supreme",
       foodDetails:"Onion| Green Capsicum|Mushroom |black olives , sweet corn , Red Paprika topped with Cheese",
       foodPrice:369,
-      foodImg:"/../../assets/img/veggie-supreme.jpeg"
+      foodImg:"/assets/img/veggie-supreme.jpeg"
     },
     {
       id:3,
       foodName:"Paneer Burger",
       foodDetails:"panner",
       foodPrice:149,
-      foodImg:"/../../assets/img/paneer-burger.jpeg"
+      foodImg:"/assets/img/paneer-burger.jpeg"
     },
     {
       id:4,
       foodName:"Veg Masala Roll In Naan",
       foodDetails:"A homely mix of mashed potato and veggies, seasoned with Indian spices. A filling sure to take you back to mom's kitchen.r",
       foodPrice:140,
-      foodImg:"/../../assets/img/veg-roll.jpeg"
+      foodImg:"/assets/img/veg-roll.jpeg"
     },
     {
       id:5,
       foodName:"Indulgence Brownie",
       foodDetails:"(Eggless) Indulge in richly decadent chocolate brownie crafted with love & topped with bitter-sweet chocolate that provides ultra-rich chocolate experience.",
       foodPrice:105,
-      foodImg:"/../../assets/img/brownie.jpeg"
+      foodImg:"/assets/img/brownie.jpeg"
     },
     {
       id:6,
       foodName:"Oreo Cheesecake Ice Cream",
       foodDetails:"Oreo ice cream",
       foodPrice:219,
-      foodImg:"/../../assets/img/oreo-cheesecake.jpeg"
+      foodImg:"/assets/img/oreo-cheesecake.jpeg"
     }
   ]
 }
